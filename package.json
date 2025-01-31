@@ -1,7 +1,7 @@
 {
   "name": "asap-project",
   "version": "1.0.0",
-  "description": "this is setup",
+  "description": "",
   "homepage": "https://github.com/kalviumcommunity/S85_Kaun_Banega_Codepati#readme",
   "bugs": {
     "url": "https://github.com/kalviumcommunity/S85_Kaun_Banega_Codepati/issues"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/kalviumcommunity/S85_Kaun_Banega_Codepati.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "Pushkar",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
