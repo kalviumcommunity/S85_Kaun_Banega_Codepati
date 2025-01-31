@@ -1,0 +1,20 @@
+{
+  "name": "s85_kaun_banega_codepati",
+  "version": "1.0.0",
+  "description": "this is a dev env",
+  "homepage": "https://github.com/kalviumcommunity/S85_Kaun_Banega_Codepati#readme",
+  "bugs": {
+    "url": "https://github.com/kalviumcommunity/S85_Kaun_Banega_Codepati/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalviumcommunity/S85_Kaun_Banega_Codepati.git"
+  },
+  "license": "ISC",
+  "author": "pushkar",
+  "type": "commonjs",
+  "main": "d",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
