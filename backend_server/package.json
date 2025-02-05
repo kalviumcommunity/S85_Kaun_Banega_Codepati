@@ -1,0 +1,21 @@
+{
+  "name": "backend_server",
+  "version": "1.0.0",
+  "description": "backend_server_live",
+  "homepage": "https://github.com/Pushkar780/backend_server#readme",
+  "bugs": {
+    "url": "https://github.com/Pushkar780/backend_server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushkar780/backend_server.git"
+  },
+  "license": "ISC",
+  "author": "Pushkar",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
