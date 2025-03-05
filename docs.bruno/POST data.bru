@@ -1,0 +1,24 @@
+meta {
+  name: POST data
+  type: http
+  seq: 2
+}
+
+post {
+  url: http://localhost:5000/api/questions
+  body: json
+  auth: none
+}
+
+headers {
+  Content-Type: application/json
+}
+
+body:json {
+  {
+      "question" : "What is template literal in javascript?",
+      "options": [ "` `", " ,", " . ", "*"],
+      "answer" : "` `"
+  }
+  
+}
