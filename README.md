@@ -1,4 +1,36 @@
 #**Kaun Banega Codepati**#
+Kaun Banega Codepati - React App
+
+📌 Overview
+
+This project is a React-based quiz game called Kaun Banega Codepati where players answer coding-related questions to level up and score points. The UI is designed with interactive components to enhance the user experience.
+📜 How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/your-repo-name.git
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm start
+
+💡 Future Enhancements
+
+Add lifelines & animations for selecting answers
+
+Implement score tracking & leaderboard
+
+Add more interactive UI elements
+
+🎯 Enjoy playing Kaun Banega Codepati! 💻🚀
+
+Deployed Link(Netlify)=>https://kaunbanegacodepatii.netlify.app/
+Deployed Link(CloudFlare)=>kaunbanegacodepati.pages.dev
+
 Milestone 9: Landing Page for Kaun Banega Codepati
 
 ✅ Tasks Completed
