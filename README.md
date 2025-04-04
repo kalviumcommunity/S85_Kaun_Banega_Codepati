@@ -28,9 +28,6 @@ Add more interactive UI elements
 
 🎯 Enjoy playing Kaun Banega Codepati! 💻🚀
 
-Deployed Link(Netlify)=>https://kaunbanegacodepatii.netlify.app/
-Deployed Link(CloudFlare)=>kaunbanegacodepati.pages.dev
-
 Milestone 9: Landing Page for Kaun Banega Codepati
 
 ✅ Tasks Completed
