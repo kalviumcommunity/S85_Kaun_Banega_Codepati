@@ -1,41 +1,38 @@
 #**Kaun Banega Codepati**#
-Deployed Link(Netlify)=>https://kaunbanegacodepatii.netlify.app/
-Deployed Link(CloudFlare)=>kaunbanegacodepati.pages.dev
-
 
 Milestone 9: Landing Page for Kaun Banega Codepati
 
-✅ Tasks Completed
+=>Tasks Completed
 
-1️⃣ Created a New Branch
+1️Created a New Branch
 
 Created a new branch locally: landing-page
 
-2️⃣ Set Up React App with Vite
+Set Up React App with Vite
 
 Initialized a new React project inside the client folder using Vite.
 
 Installed required dependencies.
 
-3️⃣ Developed the Landing Page
+Developed the Landing Page
 
 Implemented a simple landing page for Kaun Banega Codepati.
 
 Included a title with emojis and a description inside a React component.
 
-4️⃣ Committed and Pushed Code
+Committed and Pushed Code
 
 Staged and committed the changes with the message: "Added landing page for ASAP"
 
 Pushed the branch to GitHub.
 
-5️⃣ Created a Pull Request (PR)
+Created a Pull Request (PR)
 
 Opened a PR for the feature/landing-page branch.
 
 Requested an AI review using @CodiumAI-Agent /review.
 
-6️⃣ Recorded a Video
+Recorded a Video
 
 Recorded a walkthrough video demonstrating the completed tasks.
 
